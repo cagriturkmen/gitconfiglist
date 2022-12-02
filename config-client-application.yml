@@ -1,0 +1,6 @@
+server:
+  port: 7095
+
+myapplication:
+  mesaj: "Merhaba Dünya - Config Client git üzerinden"
+
